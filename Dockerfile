@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Susana Rijo <susana.rijo@gmail.com>
+MAINTAINER Susana Rijo <s.rijo@yahoo.com>
 
 # Install wget and unzip
 RUN apt-get update -y
